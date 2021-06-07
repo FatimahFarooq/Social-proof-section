@@ -110,7 +110,7 @@ img {
     /* box-shadow: -14px 18px 106px 16px #c7c7c759; */
     /* box-shadow: 15px 15px 15px 15px #c7c7c759; */
     box-shadow: -5px 26px 21px 31px #c7c7c759;
-    padding-bottom: 8em;
+    padding-bottom: 8em !important;
   }
   .header {
     display: flex !important;
