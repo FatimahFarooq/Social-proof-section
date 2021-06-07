@@ -121,7 +121,7 @@ img {
   }
 
   h1 {
-    font-size: 10em;
+    font-size: 8em;
   }
   .ratings {
     width: 50vw;
@@ -149,7 +149,7 @@ img {
   h1 {
     margin: 0;
     padding: 0;
-    margin-right: 5em;
+    /* margin-right: 5em; */
   }
 
   p {
